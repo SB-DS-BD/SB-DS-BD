@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @SB-DS-BD
+- 👀 I’m interested in Data Science and Big Data (certified)
+- 🌱 I’ve currently completed my learning on Data Science, Data Analysis, Machine Learning, Data Visualization, and Big data Analytics
+- Skills: Advanced Excel with VBA, SQL, R, Python, Machine Learning, Tableau, Hadoop, MS office tools, Windows/Linux/Unix
+- 💞️ I’m looking to collaborate on the same domain
+- 📫 Reach me at supriyobarik735@gmail.com
